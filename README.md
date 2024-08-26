@@ -1,4 +1,7 @@
-<h2 align="left">Hey y'all 👋! I'm Ria Patel </h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0080FE&height=250&section=header&text=Befikir's%20Github&fontColor=ffffff&fontSize=55)
+
+<h2 align="left">Hello👋 My name is Befikir T. Bogale, a Graduate Research Assistant at the University of Tennessee, Knoxville</h2>
+
 
 ###
 
@@ -6,32 +9,26 @@
 <div>
   <ul>
     <li><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F254059.png&f=1&nofb=1&ipt=36f92ffa5c29d3eb325752007c5ec1f2534f91bf5e3621664a446b67cce31041&ipo=images" height="20" alt="university of tennessee logo"/> Ph.D. student in Computer Science at the University of Tennessee </li>
-    <li>🖥️ Currently researching deep learning techniques using cutting-edge computers</li>
-    <li>📚 Love learning new things!</li>
+    <li>�️ Currently researching performance analysis/explainability through adhoc methods.</li>
   </ul>
 </div>
 
 ###
 
 <h2 align="left">Connect with me! 🌎</h2>
-<p align="left">Visit <a href="https://patelria007.github.io">my website</a> or contact me through the following platforms!</p>
-
-###
 
 <div align="left">
-  <a href="mailto:patelria007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/patelria007/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/rinks007" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
+    <center>
+        <a href="mailto:bbogale@vols.utk.edu" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+        </a>
+        <a href="https://www.linkedin.com/in/befikir/" target="_blank">
+            <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+        </a>
+    </center>
 </div>
 
 ###
-
 
 
 ###
