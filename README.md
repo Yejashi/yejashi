@@ -73,6 +73,6 @@
 
 <h2>🐍 in my contributions!</h2>
 
-<img src="https://raw.githubusercontent.com/yejashi/yejashi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yejashi/yejashi/output/snake.svg" alt="Snake animation" />
 
 ###
