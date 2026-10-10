@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="104" viewBox="0 0 900 104" role="img" aria-label="A flame graph of where my time goes: HPC performance analysis, reproducibility, and side quests">
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, "JetBrains Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11.5px; fill: #1b1206; font-weight: 600; pointer-events: none; }
+    g.f { opacity: 0; animation: grow .45s ease-out both; transform-box: fill-box; transform-origin: bottom; }
+    g.f:hover rect { filter: brightness(1.12); }
+    @keyframes grow { from { opacity: 0; transform: scaleY(.2); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { g.f { animation: none; opacity: 1; } }
+  </style>
+  <g class="f" style="animation-delay:0.15s"><title>main() — befikir — everything</title><rect x="1" y="79" width="898" height="24" rx="3" fill="#ff8200"/><text x="7" y="95.5">main() — befikir</text></g>
+  <g class="f" style="animation-delay:0.35s"><title>hpc_performance_analysis — PhD research at GCLab</title><rect x="1" y="53" width="538" height="24" rx="3" fill="#f59e0b"/><text x="7" y="69.5">hpc_performance_analysis</text></g>
+  <g class="f" style="animation-delay:0.50s"><title>reproducibility — non-determinism in HPC apps</title><rect x="541" y="53" width="178" height="24" rx="3" fill="#fcae5a"/><text x="547" y="69.5">reproducibility</text></g>
+  <g class="f" style="animation-delay:0.55s"><title>side_quests — for fun</title><rect x="721" y="53" width="178" height="24" rx="3" fill="#ffa340"/><text x="727" y="69.5">side_quests</text></g>
+  <g class="f" style="animation-delay:0.55s"><title>compiler_provenance — correlating compiler optimizations with runtime performance</title><rect x="1" y="27" width="214" height="24" rx="3" fill="#fdba74"/><text x="7" y="43.5">compiler_provenance</text></g>
+  <g class="f" style="animation-delay:0.61s"><title>thicket — LLNL/thicket: ensemble performance analysis</title><rect x="217" y="27" width="160" height="24" rx="3" fill="#ff9326"/><text x="223" y="43.5">thicket</text></g>
+  <g class="f" style="animation-delay:0.66s"><title>raja_perf_suite — LLNL/RAJAPerf: performance portability</title><rect x="379" y="27" width="160" height="24" rx="3" fill="#f59e0b"/><text x="385" y="43.5">raja_perf_suite</text></g>
+  <g class="f" style="animation-delay:0.70s"><title>anacin-x — TauferLab/ANACIN-X: MPI non-determinism</title><rect x="541" y="27" width="88" height="24" rx="3" fill="#fcae5a"/><text x="547" y="43.5">anacin-x</text></g>
+  <g class="f" style="animation-delay:0.73s"><title>dedup_ckpt — checkpointing NNs via deduplication</title><rect x="631" y="27" width="88" height="24" rx="3" fill="#ffa340"/><text x="637" y="43.5">dedup_ckpt</text></g>
+  <g class="f" style="animation-delay:0.75s"><title>compilers — calcCompiler, LLVM Kaleidoscope</title><rect x="721" y="27" width="97" height="24" rx="3" fill="#fb923c"/><text x="727" y="43.5">compilers</text></g>
+  <g class="f" style="animation-delay:0.78s"><title>nixos — nixOS + hyprland rices</title><rect x="820" y="27" width="79" height="24" rx="3" fill="#ff8200"/><text x="826" y="43.5">nixos</text></g>
+  <g class="f" style="animation-delay:0.75s"><title>llvm_pass — LLVM pass plugin exposing compiler remarks</title><rect x="1" y="1" width="106" height="24" rx="3" fill="#f59e0b"/><text x="7" y="17.5">llvm_pass</text></g>
+  <g class="f" style="animation-delay:0.78s"><title>caliper — LLNL/Caliper annotations</title><rect x="109" y="1" width="106" height="24" rx="3" fill="#fcae5a"/><text x="115" y="17.5">caliper</text></g>
+  <g class="f" style="animation-delay:0.81s"><title>hatchet — LLNL/hatchet: call-tree analysis</title><rect x="217" y="1" width="115" height="24" rx="3" fill="#ffa340"/><text x="223" y="17.5">hatchet</text></g>
+  <g class="f" style="animation-delay:0.86s"><title>gpu_portability — CPU vs GPU, memory types</title><rect x="379" y="1" width="133" height="24" rx="3" fill="#fb923c"/><text x="385" y="17.5">gpu_portability</text></g>
+  <g class="f" style="animation-delay:0.90s"><title>mpi — message races</title><rect x="541" y="1" width="70" height="24" rx="3" fill="#ff8200"/><text x="547" y="17.5">mpi</text></g>
+  <g class="f" style="animation-delay:0.95s"><title>rust — Rust adventures</title><rect x="721" y="1" width="70" height="24" rx="3" fill="#ffb35c"/><text x="727" y="17.5">rust</text></g>
+</svg>
